@@ -1,0 +1,36 @@
+URxvt.font: xft:monospace:size=11
+URxvt.scrollBar: false
+
+! Background color
+URxvt*background: #131513
+
+! Font color
+URxvt*foreground: #8ca68c
+
+! Other colors
+URxvt*color0:	#131513
+URxvt*color1:	#e6193c
+URxvt*color2:	#29a329
+URxvt*color3:	#c3c322
+URxvt*color4:	#3d62f5
+URxvt*color5:	#ad2bee
+URxvt*color6:	#1999b3
+URxvt*color7:	#8ca68c
+URxvt*color8:	#687d68
+URxvt*color9:	#e6193c
+URxvt*color10:	#29a329
+URxvt*color11:	#c3c322
+URxvt*color12:	#3d62f5
+URxvt*color13:	#ad2bee
+URxvt*color14:	#1999b3
+URxvt*color15:	#f0fff0
+
+
+
+
+
+
+
+
+
+
