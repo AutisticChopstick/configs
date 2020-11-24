@@ -1,3 +1,5 @@
+! Add a dot at the front of the filename and place in home dir
+
 URxvt.font: xft:monospace:size=11
 URxvt.scrollBar: false
 
